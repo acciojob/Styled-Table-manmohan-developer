@@ -10,3 +10,7 @@ caption{
 	color: #1a73e8;
 	padding: 10px;
 }
+thead{
+	background-color: #f4b400;
+	color: white;
+}
